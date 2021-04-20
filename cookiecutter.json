@@ -1,0 +1,6 @@
+{
+    "project": "untitled",
+    "author": "unknown",
+    "version": "0.1.0",
+    "repository": "https://github.com/{{cookiecutter.author}}/{{cookiecutter.project}}.json"
+}
