@@ -5,6 +5,6 @@
   "scripts": {
     "build": "spago build",
     "test": "spago -x tests.dhall test",
-    "repl": "spago -x tests.dhall repl",
+    "repl": "spago -x tests.dhall repl"
   }
 }
