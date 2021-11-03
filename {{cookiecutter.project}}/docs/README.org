@@ -1,1 +1,1 @@
-* purescript-{{cookiercutter.project}}
+* purescript-{{cookiecutter.project}}
